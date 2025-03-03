@@ -1,0 +1,30 @@
+{
+"format_version": 2,
+"header": {
+"description": "§l§fPack by §b16ze",
+"name": "§9PackSquelette",
+"uuid": "5f15f469-7fda-4117-9775-772d14c2dcc9",
+"version": [1, 10, 1],
+"min_engine_version": [1, 16, 0]
+},
+"modules": [
+{
+"description": "§l§fPack by §b16ze",
+"type": "resources",
+"uuid": "a65c9c7e-dfc2-43af-b21f-0baefa950ba8",
+"version": [0, 0, 1]
+}
+],
+"subpacks": [
+{
+"folder_name": "No particles",
+"name": "§l§eNo particles",
+"memory_tier": 1
+},
+{
+"folder_name": "Default",
+"name": "§l§8Default",
+"memory_tier": 1
+} 
+] 
+}
